@@ -1,0 +1,14 @@
+C:\Users\polsk\Desktop\GryPlanszowe\GryPlanszowe\bin\Debug\net6.0\GryPlanszowe.exe
+C:\Users\polsk\Desktop\GryPlanszowe\GryPlanszowe\bin\Debug\net6.0\GryPlanszowe.deps.json
+C:\Users\polsk\Desktop\GryPlanszowe\GryPlanszowe\bin\Debug\net6.0\GryPlanszowe.runtimeconfig.json
+C:\Users\polsk\Desktop\GryPlanszowe\GryPlanszowe\bin\Debug\net6.0\GryPlanszowe.dll
+C:\Users\polsk\Desktop\GryPlanszowe\GryPlanszowe\bin\Debug\net6.0\GryPlanszowe.pdb
+C:\Users\polsk\Desktop\GryPlanszowe\GryPlanszowe\obj\Debug\net6.0\GryPlanszowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polsk\Desktop\GryPlanszowe\GryPlanszowe\obj\Debug\net6.0\GryPlanszowe.AssemblyInfoInputs.cache
+C:\Users\polsk\Desktop\GryPlanszowe\GryPlanszowe\obj\Debug\net6.0\GryPlanszowe.AssemblyInfo.cs
+C:\Users\polsk\Desktop\GryPlanszowe\GryPlanszowe\obj\Debug\net6.0\GryPlanszowe.csproj.CoreCompileInputs.cache
+C:\Users\polsk\Desktop\GryPlanszowe\GryPlanszowe\obj\Debug\net6.0\GryPlanszowe.dll
+C:\Users\polsk\Desktop\GryPlanszowe\GryPlanszowe\obj\Debug\net6.0\refint\GryPlanszowe.dll
+C:\Users\polsk\Desktop\GryPlanszowe\GryPlanszowe\obj\Debug\net6.0\GryPlanszowe.pdb
+C:\Users\polsk\Desktop\GryPlanszowe\GryPlanszowe\obj\Debug\net6.0\GryPlanszowe.genruntimeconfig.cache
+C:\Users\polsk\Desktop\GryPlanszowe\GryPlanszowe\obj\Debug\net6.0\ref\GryPlanszowe.dll
