@@ -1,0 +1,14 @@
+C:\Users\polsk\Desktop\czas_na_zabawe_ostrec\WypozyczalniaGier\WypozyczalniaGier\obj\Debug\net6.0\WypozyczalniaGier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polsk\Desktop\czas_na_zabawe_ostrec\WypozyczalniaGier\WypozyczalniaGier\obj\Debug\net6.0\WypozyczalniaGier.AssemblyInfoInputs.cache
+C:\Users\polsk\Desktop\czas_na_zabawe_ostrec\WypozyczalniaGier\WypozyczalniaGier\obj\Debug\net6.0\WypozyczalniaGier.AssemblyInfo.cs
+C:\Users\polsk\Desktop\czas_na_zabawe_ostrec\WypozyczalniaGier\WypozyczalniaGier\obj\Debug\net6.0\WypozyczalniaGier.csproj.CoreCompileInputs.cache
+C:\Users\polsk\Desktop\czas_na_zabawe_ostrec\WypozyczalniaGier\WypozyczalniaGier\bin\Debug\net6.0\WypozyczalniaGier.exe
+C:\Users\polsk\Desktop\czas_na_zabawe_ostrec\WypozyczalniaGier\WypozyczalniaGier\bin\Debug\net6.0\WypozyczalniaGier.deps.json
+C:\Users\polsk\Desktop\czas_na_zabawe_ostrec\WypozyczalniaGier\WypozyczalniaGier\bin\Debug\net6.0\WypozyczalniaGier.runtimeconfig.json
+C:\Users\polsk\Desktop\czas_na_zabawe_ostrec\WypozyczalniaGier\WypozyczalniaGier\bin\Debug\net6.0\WypozyczalniaGier.dll
+C:\Users\polsk\Desktop\czas_na_zabawe_ostrec\WypozyczalniaGier\WypozyczalniaGier\bin\Debug\net6.0\WypozyczalniaGier.pdb
+C:\Users\polsk\Desktop\czas_na_zabawe_ostrec\WypozyczalniaGier\WypozyczalniaGier\obj\Debug\net6.0\WypozyczalniaGier.dll
+C:\Users\polsk\Desktop\czas_na_zabawe_ostrec\WypozyczalniaGier\WypozyczalniaGier\obj\Debug\net6.0\refint\WypozyczalniaGier.dll
+C:\Users\polsk\Desktop\czas_na_zabawe_ostrec\WypozyczalniaGier\WypozyczalniaGier\obj\Debug\net6.0\WypozyczalniaGier.pdb
+C:\Users\polsk\Desktop\czas_na_zabawe_ostrec\WypozyczalniaGier\WypozyczalniaGier\obj\Debug\net6.0\WypozyczalniaGier.genruntimeconfig.cache
+C:\Users\polsk\Desktop\czas_na_zabawe_ostrec\WypozyczalniaGier\WypozyczalniaGier\obj\Debug\net6.0\ref\WypozyczalniaGier.dll
